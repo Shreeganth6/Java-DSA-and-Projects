@@ -1,4 +1,3 @@
-package technical_aptitude;
 
 import java.util.Scanner;
 

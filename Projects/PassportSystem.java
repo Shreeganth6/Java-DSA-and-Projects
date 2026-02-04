@@ -1,4 +1,4 @@
-package technical_aptitude;
+
 import java.util.*;
 
 //@author shree

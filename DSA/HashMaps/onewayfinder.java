@@ -1,4 +1,4 @@
-package DSA.HashMaps;
+
 
 import java.util.*;
 class onewayfinder{
